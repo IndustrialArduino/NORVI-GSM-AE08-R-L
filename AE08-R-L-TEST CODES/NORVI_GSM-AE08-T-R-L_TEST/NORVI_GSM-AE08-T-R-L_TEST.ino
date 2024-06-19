@@ -28,8 +28,6 @@
 #define INPUT3 14
 #define INPUT4 13
 
-
-
 #define OUTPUT1 12
 #define OUTPUT2 2
 #define OUTPUT3 27
